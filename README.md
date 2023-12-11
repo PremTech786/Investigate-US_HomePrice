@@ -22,7 +22,6 @@ These areas include:
 *  Number of Households
 
 **Data was collected using the following sources:**
-
 CSUSHPISA Home Price Index - https://fred.stlouisfed.org/series/CSUSHPISA
 Interest rates - https://fred.stlouisfed.org/series/FEDFUNDS
 Unemployment rate - https://fred.stlouisfed.org/series/UNRATE
